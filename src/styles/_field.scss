@@ -1,0 +1,25 @@
+@import "./colors";
+
+.field {
+    border: 0px;
+    padding: 0;
+
+    .field__label {
+        display: block;
+        padding-bottom: 5px;
+    }
+
+    .field__input {
+        height: 35px;
+        padding: 5px 10px;
+        box-sizing: border-box;
+        border: 0px;
+        appearance: none;
+        box-shadow: inset 0px 1px 2px $primary, inset 0px 0px 1px $primary;
+        width: 100%;
+        
+        &.field__input:focus {
+            box-shadow: inset 0px 1px 2px $primary-dark;
+        }
+    }
+}

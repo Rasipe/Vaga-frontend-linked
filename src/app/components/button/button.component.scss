@@ -1,0 +1,21 @@
+@import "../../../styles/colors";
+
+.app-button {
+    height: 35px;
+    background: $primary;
+    border-radius: 5px;
+    min-width: 100px;
+    border: none;
+    box-shadow: inset 0px 2px 2px $primary-light;
+    color: $white;
+    box-sizing: border-box;
+    width: 100%;
+    
+    &:active {
+        background: $primary-dark;
+    }
+
+    &:disabled {
+        background: $primary-dark;
+    }
+}
