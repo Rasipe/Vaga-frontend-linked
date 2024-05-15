@@ -1,5 +1,5 @@
 import { Component, EventEmitter, Input, Output } from '@angular/core';
-import { Option } from '../../models/Option';
+import { Option } from '../../models/option.model';
 import { CommonModule } from '@angular/common';
 
 @Component({
@@ -24,4 +24,8 @@ export class SelectComponent {
 
   @Output()
   valueChange: EventEmitter<string> = new EventEmitter();
+
+  onValueChange(event: any) {
+    this.valueChange.emit(event.target.value);
+  }
 }

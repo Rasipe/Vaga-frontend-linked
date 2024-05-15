@@ -1,5 +1,9 @@
-<form class="search-form" method="get">
-    <app-textfield class="grow-3" fieldName="search" label="Pesquisa" placeholder="Pesquisar por..."></app-textfield>
-    <app-select class="grow-3" fieldName="collection" [options]="options" label="coleção"></app-select>
-    <app-button class="grow-1" label="Buscar" width="20%"></app-button>
+<form class="search-form" method="get" (submit)="onSubmit($event)">
+    <app-textfield class="grow-3" [(value)]="search" fieldName="search" label="Pesquisa" placeholder="Pesquisar por..."></app-textfield>
+    <app-select class="grow-3" [(value)]="collection" fieldName="collection" [options]="options" label="coleção"></app-select>
+    <app-button class="grow-1" label="Buscar" buttonType="submit" [disabled]="!collection"></app-button>
 </form>
+
+<app-set-list [sets]="sets" (setSelected)="setSelectHander($event)"></app-set-list>
+
+

@@ -1,0 +1,48 @@
+@import "../../../styles/colors";
+
+.list {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.card {
+    border-radius: 15px;
+    height: 300px;
+    padding: 15px;
+    background: $white;
+    box-shadow: 5px 5px 15px $grey;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    &.card--small {
+        width: 300px
+    }
+
+    &.card--medium {
+        width: 500px
+    }
+
+    &.card--large {
+        width: 700px
+    }
+
+    .card__header {
+    }
+
+    .card__footer {
+        align-self: flex-end;
+        color: $grey;
+    }
+
+    .card__title {
+        font-size: 24px;
+    }
+
+    .card__subtitle {
+        font-size: 20px;
+        color: $grey
+    }
+}

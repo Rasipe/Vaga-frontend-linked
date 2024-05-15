@@ -1,0 +1,9 @@
+<ul class="list">
+    <li class="list__item card card--small clickable" *ngFor="let set of sets" (click)="onClickHander(set)">
+        <div class="card__header">
+            <p class="card__title"> {{set.name}} </p>
+            <p class="card__subtitle" > {{set.block}} </p>
+        </div>
+        <span class="card__footer"> {{set.releaseDate}} </span>
+    </li>
+</ul>

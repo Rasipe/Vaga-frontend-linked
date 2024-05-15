@@ -1,6 +1,6 @@
 <fieldset class="field">
     <label class="field__label" [for]="fieldName">{{label}}</label>
-    <select class="field__input" type="text" [name]="fieldName">
+    <select class="field__input" [value]="value" type="text" [name]="fieldName" (change)="onValueChange($event)">
         <option class="field__option" [value]="null"> Selecione uma opção </option>
         <option class="field__option" *ngFor="let item of options" [value]="item.value">{{item.label}}</option>
     </select>

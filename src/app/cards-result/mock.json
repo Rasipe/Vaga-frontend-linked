@@ -1,0 +1,2512 @@
+{
+    "cards": [
+    {
+    "name": "Voice of All",
+    "manaCost": "{2}{W}{W}",
+    "cmc": 4,
+    "colors": [
+    "W"
+    ],
+    "colorIdentity": [
+    "W"
+    ],
+    "type": "Creature — Angel",
+    "types": [
+    "Creature"
+    ],
+    "subtypes": [
+    "Angel"
+    ],
+    "rarity": "Rare",
+    "set": "10E",
+    "setName": "Tenth Edition",
+    "text": "Flying\nAs Voice of All enters the battlefield, choose a color.\nVoice of All has protection from the chosen color.",
+    "artist": "rk post",
+    "number": "56★",
+    "power": "2",
+    "toughness": "2",
+    "layout": "normal",
+    "variations": [
+    "814b54df-221c-5fdb-a516-0fbd438b57a7"
+    ],
+    "printings": [
+    "10E",
+    "CMA",
+    "CMD",
+    "DMR",
+    "PLS",
+    "PS11"
+    ],
+    "legalities": [
+    {
+    "format": "Commander",
+    "legality": "Legal"
+    },
+    {
+    "format": "Duel",
+    "legality": "Legal"
+    },
+    {
+    "format": "Legacy",
+    "legality": "Legal"
+    },
+    {
+    "format": "Modern",
+    "legality": "Legal"
+    },
+    {
+    "format": "Oathbreaker",
+    "legality": "Legal"
+    },
+    {
+    "format": "Paupercommander",
+    "legality": "Restricted"
+    },
+    {
+    "format": "Penny",
+    "legality": "Legal"
+    },
+    {
+    "format": "Predh",
+    "legality": "Legal"
+    },
+    {
+    "format": "Premodern",
+    "legality": "Legal"
+    },
+    {
+    "format": "Vintage",
+    "legality": "Legal"
+    }
+    ],
+    "id": "3c6b79b0-1a84-5584-83c6-954430868f62"
+    },
+    {
+    "name": "Shatterstorm",
+    "manaCost": "{2}{R}{R}",
+    "cmc": 4,
+    "colors": [
+    "R"
+    ],
+    "colorIdentity": [
+    "R"
+    ],
+    "type": "Sorcery",
+    "types": [
+    "Sorcery"
+    ],
+    "rarity": "Uncommon",
+    "set": "10E",
+    "setName": "Tenth Edition",
+    "text": "Destroy all artifacts. They can't be regenerated.",
+    "flavor": "From a marvel of magical mechanization to a smoking stack of scrap in one easy step.",
+    "artist": "Paolo Parente",
+    "number": "229",
+    "layout": "normal",
+    "multiverseid": "130370",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=130370&type=card",
+    "foreignNames": [
+    {
+    "name": "Zerschmetternder Sturm",
+    "text": "Zerstöre alle Artefakte. Sie können nicht regeneriert werden.",
+    "type": "Hexerei",
+    "flavor": "Aus einem Wunderwerk aus Magie und Mechanik wird in einem einfachen Schritt ein rauchendes Stück Schrott.",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148686&type=card",
+    "language": "German",
+    "multiverseid": 148686
+    },
+    {
+    "name": "Tormenta de destrucción",
+    "text": "Destruye todos los artefactos. No pueden ser regenerados.",
+    "type": "Conjuro",
+    "flavor": "De una maravilla de la mecanización mágica a una pila humeante de chatarra en un simple paso.",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150545&type=card",
+    "language": "Spanish",
+    "multiverseid": 150545
+    },
+    {
+    "name": "Tempête fracassante",
+    "text": "Détruisez tous les artefacts. Ils ne peuvent pas être régénérés.",
+    "type": "Rituel",
+    "flavor": "Comment transformer une merveille de la mécanique magique en tas de ferraille fumant en un clin d'œil.",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150162&type=card",
+    "language": "French",
+    "multiverseid": 150162
+    },
+    {
+    "name": "Tempesta di Distruzione",
+    "text": "Distruggi tutti gli artefatti. Non possono essere rigenerati.",
+    "type": "Stregoneria",
+    "flavor": "Da un prodigio di meccanizzazione magica a un fumante ammasso di rottami in un semplice passaggio.",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149069&type=card",
+    "language": "Italian",
+    "multiverseid": 149069
+    },
+    {
+    "name": "粉砕の嵐",
+    "text": "すべてのアーティファクトを破壊する。 それらは再生できない。",
+    "type": "ソーサリー",
+    "flavor": "摩訶不思議な魔力の魔術具が、煙吹く消し炭の結末を迎えるまで、あっという間。",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148303&type=card",
+    "language": "Japanese",
+    "multiverseid": 148303
+    },
+    {
+    "name": "Tempestade Estilhaçadora",
+    "text": "Destrua todos os artefatos. Eles não podem ser regenerados.",
+    "type": "Feitiço",
+    "flavor": "De uma fantástica mecanização mágica a uma pilha de sucata fumegante em um simples passo.",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149779&type=card",
+    "language": "Portuguese (Brazil)",
+    "multiverseid": 149779
+    },
+    {
+    "name": "Шторм Разрушения",
+    "text": "Уничтожьте все артефакты. Они не могут быть регенерированы.",
+    "type": "Волшебство",
+    "flavor": "От искусного творения магии до груды металлолома один лишь шаг.",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149396&type=card",
+    "language": "Russian",
+    "multiverseid": 149396
+    },
+    {
+    "name": "粉碎风暴",
+    "text": "消灭所有神器。 它们不能重生。",
+    "type": "法术",
+    "flavor": "从法术器械的奇迹变成一堆冒烟废铁，过程简单至极。",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=147920&type=card",
+    "language": "Chinese Simplified",
+    "multiverseid": 147920
+    }
+    ],
+    "printings": [
+    "10E",
+    "3ED",
+    "5ED",
+    "6ED",
+    "AKR",
+    "ATQ",
+    "FBB",
+    "MP2",
+    "OLEP",
+    "PLIST",
+    "SUM"
+    ],
+    "originalText": "Destroy all artifacts. They can't be regenerated.",
+    "originalType": "Sorcery",
+    "legalities": [
+    {
+    "format": "Commander",
+    "legality": "Legal"
+    },
+    {
+    "format": "Duel",
+    "legality": "Legal"
+    },
+    {
+    "format": "Gladiator",
+    "legality": "Legal"
+    },
+    {
+    "format": "Historic",
+    "legality": "Legal"
+    },
+    {
+    "format": "Historicbrawl",
+    "legality": "Legal"
+    },
+    {
+    "format": "Legacy",
+    "legality": "Legal"
+    },
+    {
+    "format": "Modern",
+    "legality": "Legal"
+    },
+    {
+    "format": "Oathbreaker",
+    "legality": "Legal"
+    },
+    {
+    "format": "Penny",
+    "legality": "Legal"
+    },
+    {
+    "format": "Predh",
+    "legality": "Legal"
+    },
+    {
+    "format": "Premodern",
+    "legality": "Legal"
+    },
+    {
+    "format": "Vintage",
+    "legality": "Legal"
+    }
+    ],
+    "id": "855f7c1e-d582-5ae3-8f58-00a5c0d77c03"
+    },
+    {
+    "name": "Spiketail Hatchling",
+    "manaCost": "{1}{U}",
+    "cmc": 2,
+    "colors": [
+    "U"
+    ],
+    "colorIdentity": [
+    "U"
+    ],
+    "type": "Creature — Drake",
+    "types": [
+    "Creature"
+    ],
+    "subtypes": [
+    "Drake"
+    ],
+    "rarity": "Uncommon",
+    "set": "10E",
+    "setName": "Tenth Edition",
+    "text": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nSacrifice Spiketail Hatchling: Counter target spell unless its controller pays {1}.",
+    "flavor": "It dodges waves of water to prepare for waves of magic.",
+    "artist": "Greg Staples",
+    "number": "111★",
+    "power": "1",
+    "toughness": "1",
+    "layout": "normal",
+    "variations": [
+    "e0d42d12-40a7-54d5-b688-84841a8bc72c"
+    ],
+    "rulings": [
+    {
+    "date": "2004-10-04",
+    "text": "The spell’s controller gets the option to pay when this ability resolves."
+    }
+    ],
+    "printings": [
+    "10E",
+    "8ED",
+    "PCY"
+    ],
+    "legalities": [
+    {
+    "format": "Commander",
+    "legality": "Legal"
+    },
+    {
+    "format": "Duel",
+    "legality": "Legal"
+    },
+    {
+    "format": "Legacy",
+    "legality": "Legal"
+    },
+    {
+    "format": "Modern",
+    "legality": "Legal"
+    },
+    {
+    "format": "Oathbreaker",
+    "legality": "Legal"
+    },
+    {
+    "format": "Pauper",
+    "legality": "Legal"
+    },
+    {
+    "format": "Paupercommander",
+    "legality": "Legal"
+    },
+    {
+    "format": "Penny",
+    "legality": "Legal"
+    },
+    {
+    "format": "Predh",
+    "legality": "Legal"
+    },
+    {
+    "format": "Premodern",
+    "legality": "Legal"
+    },
+    {
+    "format": "Vintage",
+    "legality": "Legal"
+    }
+    ],
+    "id": "c31c9d06-507b-59fa-a1bc-402d38a5d9a8"
+    },
+    {
+    "name": "Starlight Invoker",
+    "manaCost": "{1}{W}",
+    "cmc": 2,
+    "colors": [
+    "W"
+    ],
+    "colorIdentity": [
+    "W"
+    ],
+    "type": "Creature — Human Cleric Mutant",
+    "types": [
+    "Creature"
+    ],
+    "subtypes": [
+    "Human",
+    "Cleric",
+    "Mutant"
+    ],
+    "rarity": "Uncommon",
+    "set": "10E",
+    "setName": "Tenth Edition",
+    "text": "{7}{W}: You gain 5 life.",
+    "flavor": "\"The constellations form a tapestry of light that traces my people's broken history. Day and night, I feel their glittering presence calling me to weave the pattern whole.\"",
+    "artist": "Glen Angus",
+    "number": "47",
+    "power": "1",
+    "toughness": "3",
+    "layout": "normal",
+    "multiverseid": "130385",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=130385&type=card",
+    "foreignNames": [
+    {
+    "name": "Sternenlicht-Beschwörer",
+    "text": "{7}{W}: Du erhältst 5 Lebenspunkte dazu.",
+    "type": "Kreatur — Mensch, Kleriker, Mutant",
+    "flavor": "„Die Sternbilder erzeugen einen Teppich aus Licht, auf dem man Teile der Geschichte meines Volkes lesen kann. Tag und Nacht spüre ich, wie ihr Leuchten nach mir ruft, das Muster fertig zu weben.\"",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148718&type=card",
+    "language": "German",
+    "multiverseid": 148718
+    },
+    {
+    "name": "Invocadora de luz estelar",
+    "text": "{7}{W}: Ganas 5 vidas.",
+    "type": "Criatura — Clérigo mutante humano",
+    "flavor": "\"Las constelaciones forman un tapiz de luz que rastrea la historia fracturada de mi gente. Noche y día, siento su brillante presencia pidiéndome que complete el tejido.\"",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150363&type=card",
+    "language": "Spanish",
+    "multiverseid": 150363
+    },
+    {
+    "name": "Invocatrice de lumière d'étoile",
+    "text": "{7}{W} : Vous gagnez 5 point de vie.",
+    "type": "Créature : humain et clerc et mutant",
+    "flavor": "« Les constellations forment une tapisserie de lumière qui retrace l'histoire brisée de mon peuple. Nuit et jour, je sens cette présence scintillante m'appeler pour finir de la tisser. »",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149980&type=card",
+    "language": "French",
+    "multiverseid": 149980
+    },
+    {
+    "name": "Evocatore di Luce Stellare",
+    "text": "{7}{W}: Guadagni 5 punti vita.",
+    "type": "Creatura — Mutante Chierico Umano",
+    "flavor": "\"Le costellazioni formano un tappeto di luce che ripercorre la storia frammentata del mio popolo. Giorno e notte, sento la loro presenza scintillante che mi chiama per tessere l'intera trama.\"",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149101&type=card",
+    "language": "Italian",
+    "multiverseid": 149101
+    },
+    {
+    "name": "星明かりの発動者",
+    "text": "{7}{W}：あなたは5点のライフを得る。",
+    "type": "クリーチャー — 人間・クレリック・ミュータント",
+    "flavor": "星座は我が一族の壊れた歴史を追う光のタペストリーを成します。 日毎夜毎、私にはその模様を編み上げるよう求める輝く存在を感じるのです。",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148335&type=card",
+    "language": "Japanese",
+    "multiverseid": 148335
+    },
+    {
+    "name": "Invocadora da Luz das Estrelas",
+    "text": "{7}{W}: Você ganha 5 ponto de vida.",
+    "type": "Criatura — Humano Clérigo Mutante",
+    "flavor": "\"As constelações formam um tapete de luzes que traçam a história despedaçada do meu povo. Dia e noite eu sinto a sua presença cintilante me chamando para completar a trama.\"",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149597&type=card",
+    "language": "Portuguese (Brazil)",
+    "multiverseid": 149597
+    },
+    {
+    "name": "Призывательница Звездного Света",
+    "text": "{7}{W}: Вы получаете 5 жизней.",
+    "type": "Существо — Человек Священник Мутант",
+    "flavor": "\"Созвездия образуют ткань из света, в которой прослеживаются отрывки из истории моего народа. И днем и ночью я чувствую их притягивающее мерцание, напоминающее, чтобы я сплела эту ткань воедино\".",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149214&type=card",
+    "language": "Russian",
+    "multiverseid": 149214
+    },
+    {
+    "name": "星光召现师",
+    "text": "{7}{W}：你获得5点生命。",
+    "type": "生物～人类／僧侣／突变体",
+    "flavor": "「星光交织而成的星座图，让我能追寻族人的破碎历史。 那闪烁光芒不分昼夜地召唤着，要我快将图样补齐。」",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=147952&type=card",
+    "language": "Chinese Simplified",
+    "multiverseid": 147952
+    }
+    ],
+    "printings": [
+    "10E",
+    "LGN"
+    ],
+    "originalText": "{7}{W}: You gain 5 life.",
+    "originalType": "Creature - Human Cleric Mutant",
+    "legalities": [
+    {
+    "format": "Commander",
+    "legality": "Legal"
+    },
+    {
+    "format": "Duel",
+    "legality": "Legal"
+    },
+    {
+    "format": "Legacy",
+    "legality": "Legal"
+    },
+    {
+    "format": "Modern",
+    "legality": "Legal"
+    },
+    {
+    "format": "Oathbreaker",
+    "legality": "Legal"
+    },
+    {
+    "format": "Pauper",
+    "legality": "Legal"
+    },
+    {
+    "format": "Paupercommander",
+    "legality": "Legal"
+    },
+    {
+    "format": "Penny",
+    "legality": "Legal"
+    },
+    {
+    "format": "Predh",
+    "legality": "Legal"
+    },
+    {
+    "format": "Premodern",
+    "legality": "Legal"
+    },
+    {
+    "format": "Vintage",
+    "legality": "Legal"
+    }
+    ],
+    "id": "ecf2b08e-7eca-5f13-a9f7-7a915ee259f5"
+    },
+    {
+    "name": "Viashino Sandscout",
+    "manaCost": "{1}{R}",
+    "cmc": 2,
+    "colors": [
+    "R"
+    ],
+    "colorIdentity": [
+    "R"
+    ],
+    "type": "Creature — Viashino Scout",
+    "types": [
+    "Creature"
+    ],
+    "subtypes": [
+    "Viashino",
+    "Scout"
+    ],
+    "rarity": "Common",
+    "set": "10E",
+    "setName": "Tenth Edition",
+    "text": "Haste (This creature can attack and {T} as soon as it comes under your control.)\nAt the beginning of the end step, return Viashino Sandscout to its owner's hand. (Return it only if it's on the battlefield.)",
+    "flavor": "A viashino's overlapping scales form a buffer against Shiv's ash-flecked winds and a slippery target for goblin pikes.",
+    "artist": "Scott M. Fischer",
+    "number": "246★",
+    "power": "2",
+    "toughness": "1",
+    "layout": "normal",
+    "variations": [
+    "1c1fe501-7af9-5df6-9b1e-7187f5445d85"
+    ],
+    "rulings": [
+    {
+    "date": "2004-10-04",
+    "text": "It is returned to its owner’s hand at the end of turn only if it is on the battlefield."
+    }
+    ],
+    "printings": [
+    "10E",
+    "ULG"
+    ],
+    "legalities": [
+    {
+    "format": "Commander",
+    "legality": "Legal"
+    },
+    {
+    "format": "Duel",
+    "legality": "Legal"
+    },
+    {
+    "format": "Legacy",
+    "legality": "Legal"
+    },
+    {
+    "format": "Modern",
+    "legality": "Legal"
+    },
+    {
+    "format": "Oathbreaker",
+    "legality": "Legal"
+    },
+    {
+    "format": "Pauper",
+    "legality": "Legal"
+    },
+    {
+    "format": "Paupercommander",
+    "legality": "Legal"
+    },
+    {
+    "format": "Penny",
+    "legality": "Legal"
+    },
+    {
+    "format": "Predh",
+    "legality": "Legal"
+    },
+    {
+    "format": "Premodern",
+    "legality": "Legal"
+    },
+    {
+    "format": "Vintage",
+    "legality": "Legal"
+    }
+    ],
+    "id": "1b122375-8e96-5a83-969a-2d772eceba4d"
+    },
+    {
+    "name": "Remove Soul",
+    "manaCost": "{1}{U}",
+    "cmc": 2,
+    "colors": [
+    "U"
+    ],
+    "colorIdentity": [
+    "U"
+    ],
+    "type": "Instant",
+    "types": [
+    "Instant"
+    ],
+    "rarity": "Common",
+    "set": "10E",
+    "setName": "Tenth Edition",
+    "text": "Counter target creature spell.",
+    "flavor": "When your enemies are denied soldiers, they are denied victory.",
+    "artist": "Adam Rex",
+    "number": "100",
+    "layout": "normal",
+    "multiverseid": "129699",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=129699&type=card",
+    "rulings": [
+    {
+    "date": "2008-04-01",
+    "text": "A “creature spell” is any spell with the type Creature, even if it has other types such as Artifact or Enchantment. Older cards of type Summon are also Creature spells."
+    }
+    ],
+    "foreignNames": [
+    {
+    "name": "Seelenvernichtung",
+    "text": "Neutralisiere einen Kreaturenzauber deiner Wahl.",
+    "type": "Spontanzauber",
+    "flavor": "Wenn deinen Feinden keine Soldaten vergönnt sind, ist ihnen auch kein Sieg vergönnt.",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148657&type=card",
+    "language": "German",
+    "multiverseid": 148657
+    },
+    {
+    "name": "Robar el alma",
+    "text": "Contrarresta el hechizo objetivo de criatura.",
+    "type": "Instantáneo",
+    "flavor": "Cuando tus enemigos no tienen soldados, no tienen victoria.",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150416&type=card",
+    "language": "Spanish",
+    "multiverseid": 150416
+    },
+    {
+    "name": "Retrait d'âme",
+    "text": "Contrecarrez le sort de créature ciblé.",
+    "type": "Éphémère",
+    "flavor": "Quand vos ennemis sont privés de soldats, ils sont privés de victoire.",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150033&type=card",
+    "language": "French",
+    "multiverseid": 150033
+    },
+    {
+    "name": "Estirpare l'Anima",
+    "text": "Neutralizza una magia creatura bersaglio.",
+    "type": "Istantaneo",
+    "flavor": "Quando ai tuoi nemici vengono negati i soldati, viene negata loro anche la vittoria.",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149040&type=card",
+    "language": "Italian",
+    "multiverseid": 149040
+    },
+    {
+    "name": "霊魂放逐",
+    "text": "クリーチャー呪文１つを対象とし、それを打ち消す。",
+    "type": "インスタント",
+    "flavor": "敵に兵士が与えられなければ、勝利も与えられない。",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148274&type=card",
+    "language": "Japanese",
+    "multiverseid": 148274
+    },
+    {
+    "name": "Remover a Alma",
+    "text": "Anule a mágica de criatura alvo.",
+    "type": "Mágica Instantânea",
+    "flavor": "Quando seus inimigos são soldados rejeitados, para eles é negada a vitória.",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149650&type=card",
+    "language": "Portuguese (Brazil)",
+    "multiverseid": 149650
+    },
+    {
+    "name": "Удаление Души",
+    "text": "Отмените целевое заклинание существа.",
+    "type": "Мгновенное заклинание",
+    "flavor": "Когда от ваших врагов отвернутся солдаты, от них отвернется победа.",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149267&type=card",
+    "language": "Russian",
+    "multiverseid": 149267
+    },
+    {
+    "name": "移魂术",
+    "text": "反击目标生物咒语。",
+    "type": "瞬间",
+    "flavor": "当敌手无兵可用，便是你胜利之时。",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=147891&type=card",
+    "language": "Chinese Simplified",
+    "multiverseid": 147891
+    }
+    ],
+    "printings": [
+    "10E",
+    "5ED",
+    "6ED",
+    "7ED",
+    "8ED",
+    "9ED",
+    "BCHR",
+    "CHR",
+    "LEG",
+    "ME3",
+    "P09",
+    "PRM",
+    "S99"
+    ],
+    "originalText": "Counter target creature spell.",
+    "originalType": "Instant",
+    "legalities": [
+    {
+    "format": "Commander",
+    "legality": "Legal"
+    },
+    {
+    "format": "Duel",
+    "legality": "Legal"
+    },
+    {
+    "format": "Legacy",
+    "legality": "Legal"
+    },
+    {
+    "format": "Modern",
+    "legality": "Legal"
+    },
+    {
+    "format": "Oathbreaker",
+    "legality": "Legal"
+    },
+    {
+    "format": "Pauper",
+    "legality": "Legal"
+    },
+    {
+    "format": "Paupercommander",
+    "legality": "Legal"
+    },
+    {
+    "format": "Penny",
+    "legality": "Legal"
+    },
+    {
+    "format": "Predh",
+    "legality": "Legal"
+    },
+    {
+    "format": "Premodern",
+    "legality": "Legal"
+    },
+    {
+    "format": "Vintage",
+    "legality": "Legal"
+    }
+    ],
+    "id": "f37b2caa-03c5-51ec-a02a-c2e5311a9fd5"
+    },
+    {
+    "name": "Plains",
+    "cmc": 0,
+    "colorIdentity": [
+    "W"
+    ],
+    "type": "Basic Land — Plains",
+    "supertypes": [
+    "Basic"
+    ],
+    "types": [
+    "Land"
+    ],
+    "subtypes": [
+    "Plains"
+    ],
+    "rarity": "Common",
+    "set": "10E",
+    "setName": "Tenth Edition",
+    "text": "({T}: Add {W}.)",
+    "artist": "Richard Wright",
+    "number": "367",
+    "layout": "normal",
+    "multiverseid": "129683",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=129683&type=card",
+    "variations": [
+    "c4823642-08dd-5c10-ae26-ef8d52cf3a43",
+    "3d407269-4586-51e3-9da6-298d65aff831",
+    "053c8559-8ab8-5a1a-9444-6140b41470c4"
+    ],
+    "foreignNames": [
+    {
+    "name": "Ebene",
+    "type": "Standardland — Ebene",
+    "flavor": null,
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148637&type=card",
+    "language": "German",
+    "multiverseid": 148637
+    },
+    {
+    "name": "Llanura",
+    "type": "Tierra básica — Llanura",
+    "flavor": null,
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150683&type=card",
+    "language": "Spanish",
+    "multiverseid": 150683
+    },
+    {
+    "name": "Plaine",
+    "type": "Terrain de base : plaine",
+    "flavor": null,
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150300&type=card",
+    "language": "French",
+    "multiverseid": 150300
+    },
+    {
+    "name": "Pianura",
+    "type": "Terra Base — Pianura",
+    "flavor": null,
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149020&type=card",
+    "language": "Italian",
+    "multiverseid": 149020
+    },
+    {
+    "name": "平地",
+    "type": "基本土地 — 平地",
+    "flavor": null,
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148253&type=card",
+    "language": "Japanese",
+    "multiverseid": 148253
+    },
+    {
+    "name": "Planície",
+    "type": "Terreno Básico — Planície",
+    "flavor": null,
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149917&type=card",
+    "language": "Portuguese (Brazil)",
+    "multiverseid": 149917
+    },
+    {
+    "name": "Равнина",
+    "type": "Базовая Земля — Равнина",
+    "flavor": null,
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149534&type=card",
+    "language": "Russian",
+    "multiverseid": 149534
+    },
+    {
+    "name": "平原",
+    "type": "基本地～平原",
+    "flavor": null,
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=147871&type=card",
+    "language": "Chinese Simplified",
+    "multiverseid": 147871
+    }
+    ],
+    "printings": [
+    "10E",
+    "2ED",
+    "2XM",
+    "30A",
+    "3ED",
+    "40K",
+    "4BB",
+    "4ED",
+    "5ED",
+    "6ED",
+    "7ED",
+    "8ED",
+    "9ED",
+    "AFR",
+    "AKH",
+    "AKR",
+    "ALA",
+    "ANA",
+    "ANB",
+    "ARC",
+    "ATH",
+    "AVR",
+    "BBD",
+    "BFZ",
+    "BRB",
+    "BRC",
+    "BRO",
+    "C13",
+    "C14",
+    "C15",
+    "C16",
+    "C17",
+    "C18",
+    "C19",
+    "CED",
+    "CEI",
+    "CHK",
+    "CLB",
+    "CM2",
+    "CMA",
+    "CMD",
+    "CMR",
+    "CST",
+    "DDC",
+    "DDE",
+    "DDF",
+    "DDG",
+    "DDH",
+    "DDI",
+    "DDK",
+    "DDL",
+    "DDN",
+    "DDO",
+    "DDP",
+    "DDQ",
+    "DMR",
+    "DMU",
+    "DOM",
+    "DTK",
+    "DVD",
+    "E01",
+    "ELD",
+    "FBB",
+    "FRF",
+    "G17",
+    "GK1",
+    "GK2",
+    "GN2",
+    "GN3",
+    "GNT",
+    "GRN",
+    "GS1",
+    "H09",
+    "HBG",
+    "HOP",
+    "HOU",
+    "ICE",
+    "IKO",
+    "INV",
+    "ISD",
+    "ITP",
+    "J14",
+    "J22",
+    "JMP",
+    "KHM",
+    "KLD",
+    "KLR",
+    "KTK",
+    "LEA",
+    "LEB",
+    "LRW",
+    "LTR",
+    "M10",
+    "M11",
+    "M12",
+    "M13",
+    "M14",
+    "M15",
+    "M19",
+    "M20",
+    "M21",
+    "MBS",
+    "MD1",
+    "ME1",
+    "ME3",
+    "MH2",
+    "MID",
+    "MIR",
+    "MMQ",
+    "MOM",
+    "MRD",
+    "NEO",
+    "NPH",
+    "ODY",
+    "OLEP",
+    "ONE",
+    "ONS",
+    "ORI",
+    "P02",
+    "PAL00",
+    "PAL01",
+    "PAL03",
+    "PAL04",
+    "PAL05",
+    "PAL06",
+    "PAL99",
+    "PALP",
+    "PANA",
+    "PARL",
+    "PC2",
+    "PCA",
+    "PCTB",
+    "PDGM",
+    "PELP",
+    "PF19",
+    "PF20",
+    "PGPX",
+    "PGRU",
+    "PLIST",
+    "PMPS",
+    "PMPS06",
+    "PMPS07",
+    "PMPS08",
+    "PMPS09",
+    "PMPS10",
+    "PMPS11",
+    "POR",
+    "PPP1",
+    "PRM",
+    "PRW2",
+    "PRWK",
+    "PS11",
+    "PSAL",
+    "PSS2",
+    "PSS3",
+    "PTC",
+    "PTK",
+    "PZ2",
+    "RAV",
+    "RIX",
+    "RNA",
+    "ROE",
+    "RQS",
+    "RTR",
+    "S99",
+    "SCD",
+    "SHM",
+    "SIR",
+    "SLD",
+    "SNC",
+    "SOI",
+    "SOM",
+    "STX",
+    "SUM",
+    "TD0",
+    "TD2",
+    "THB",
+    "THS",
+    "TMP",
+    "TPR",
+    "TSP",
+    "UGL",
+    "UND",
+    "UNF",
+    "UNH",
+    "USG",
+    "UST",
+    "VOW",
+    "WAR",
+    "WC00",
+    "WC02",
+    "WC03",
+    "WC04",
+    "WC97",
+    "WC98",
+    "WHO",
+    "XANA",
+    "XLN",
+    "ZEN",
+    "ZNR"
+    ],
+    "originalText": "W",
+    "originalType": "Basic Land - Plains",
+    "legalities": [
+    {
+    "format": "Alchemy",
+    "legality": "Legal"
+    },
+    {
+    "format": "Brawl",
+    "legality": "Legal"
+    },
+    {
+    "format": "Commander",
+    "legality": "Legal"
+    },
+    {
+    "format": "Duel",
+    "legality": "Legal"
+    },
+    {
+    "format": "Explorer",
+    "legality": "Legal"
+    },
+    {
+    "format": "Future",
+    "legality": "Legal"
+    },
+    {
+    "format": "Gladiator",
+    "legality": "Legal"
+    },
+    {
+    "format": "Historic",
+    "legality": "Legal"
+    },
+    {
+    "format": "Historicbrawl",
+    "legality": "Legal"
+    },
+    {
+    "format": "Legacy",
+    "legality": "Legal"
+    },
+    {
+    "format": "Modern",
+    "legality": "Legal"
+    },
+    {
+    "format": "Oathbreaker",
+    "legality": "Legal"
+    },
+    {
+    "format": "Pauper",
+    "legality": "Legal"
+    },
+    {
+    "format": "Paupercommander",
+    "legality": "Legal"
+    },
+    {
+    "format": "Penny",
+    "legality": "Legal"
+    },
+    {
+    "format": "Pioneer",
+    "legality": "Legal"
+    },
+    {
+    "format": "Predh",
+    "legality": "Legal"
+    },
+    {
+    "format": "Premodern",
+    "legality": "Legal"
+    },
+    {
+    "format": "Standard",
+    "legality": "Legal"
+    },
+    {
+    "format": "Vintage",
+    "legality": "Legal"
+    }
+    ],
+    "id": "77977762-e1e1-507b-8d59-e9ed6671a926"
+    },
+    {
+    "name": "Anaba Bodyguard",
+    "manaCost": "{3}{R}",
+    "cmc": 4,
+    "colors": [
+    "R"
+    ],
+    "colorIdentity": [
+    "R"
+    ],
+    "type": "Creature — Minotaur",
+    "types": [
+    "Creature"
+    ],
+    "subtypes": [
+    "Minotaur"
+    ],
+    "rarity": "Common",
+    "set": "10E",
+    "setName": "Tenth Edition",
+    "text": "First strike (This creature deals combat damage before creatures without first strike.)",
+    "flavor": "\"They who challenge a minotaur enjoy the taste of their own blood.\"\n—Mirri of the *Weatherlight*",
+    "artist": "Greg Staples",
+    "number": "187",
+    "power": "2",
+    "toughness": "3",
+    "layout": "normal",
+    "multiverseid": "134753",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=134753&type=card",
+    "variations": [
+    "08099cff-a271-54f1-942e-2fe7101c7bac"
+    ],
+    "foreignNames": [
+    {
+    "name": "Anaba-Leibwächter",
+    "text": "Erstschlag (Diese Kreatur fügt Kampfschaden vor Kreaturen ohne Erstschlag zu.)",
+    "type": "Kreatur — Minotaurus",
+    "flavor": "„Wer sein eigenes Blut schmecken will, muss nur einen Minotauren herausfordern.\" —Mirri von der Wetterlicht",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148410&type=card",
+    "language": "German",
+    "multiverseid": 148410
+    },
+    {
+    "name": "Guardaespaldas de Anaba",
+    "text": "Daña primero. (Esta criatura hace daño de combate antes que las criaturas sin la habilidad de dañar primero.)",
+    "type": "Criatura — Minotauro",
+    "flavor": "\"Aquellos que desafían a un minotauro disfrutan el sabor de su propia sangre.\" —Mirri del Vientoligero",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150503&type=card",
+    "language": "Spanish",
+    "multiverseid": 150503
+    },
+    {
+    "name": "Garde du corps anabaan",
+    "text": "Initiative (Cette créature inflige des blessures de combat avant les créatures sans l'initiative.)",
+    "type": "Créature : minotaure",
+    "flavor": "« Quiconque défie un minotaure doit aimer le goût de son propre sang. » —Mirri de l'Aquilon",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150120&type=card",
+    "language": "French",
+    "multiverseid": 150120
+    },
+    {
+    "name": "Guardia del Corpo di Anaba",
+    "text": "Attacco improvviso (Questa creatura infligge danno da combattimento prima delle creature senza attacco improvviso.)",
+    "type": "Creatura — Minotauro",
+    "flavor": "\"Quanti sfidano un minotauro sentono il sapore del loro stesso sangue.\" —Mirri della Cavalcavento",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148793&type=card",
+    "language": "Italian",
+    "multiverseid": 148793
+    },
+    {
+    "name": "アナーバのボディガード",
+    "text": "先制攻撃 （このクリーチャーは先制攻撃を持たないクリーチャーよりも先に戦闘ダメージを与える。）",
+    "type": "クリーチャー — ミノタウルス",
+    "flavor": "ミノタウロスに挑むのなんて、自分の血を味わいたいやつだけね。 ――ウェザーライト号のミリー",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148027&type=card",
+    "language": "Japanese",
+    "multiverseid": 148027
+    },
+    {
+    "name": "Guarda-Costas de Anaba",
+    "text": "Iniciativa (Esta criatura causa dano de combate antes de criaturas sem a habilidade de iniciativa.)",
+    "type": "Criatura — Minotauro",
+    "flavor": "\"Aqueles que desafiam um minotauro apreciam o gosto de seu próprio sangue.\" — Mirri dos Bons Ventos",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149737&type=card",
+    "language": "Portuguese (Brazil)",
+    "multiverseid": 149737
+    },
+    {
+    "name": "Телохранитель Анаба",
+    "text": "Первый удар (Это существо наносит боевые повреждения раньше существ без Первого удара.)",
+    "type": "Существо — Минотавр",
+    "flavor": "\"Тем, кто бросает вызов минотавру, суждено узнать вкус собственной крови\". — Мирри с Везерлайта",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149354&type=card",
+    "language": "Russian",
+    "multiverseid": 149354
+    },
+    {
+    "name": "阿那巴保镖",
+    "text": "先攻（此生物会比不具先攻异能的生物提前造成战斗伤害。）",
+    "type": "生物～牛头怪",
+    "flavor": "「想挑战牛头怪的人，应该会喜欢自己鲜血的味道。」 ～晴空号的米丽",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=147644&type=card",
+    "language": "Chinese Simplified",
+    "multiverseid": 147644
+    }
+    ],
+    "printings": [
+    "10E",
+    "6ED",
+    "HML"
+    ],
+    "originalText": "First strike (This creature deals combat damage before creatures without first strike.)",
+    "originalType": "Creature - Minotaur",
+    "legalities": [
+    {
+    "format": "Commander",
+    "legality": "Legal"
+    },
+    {
+    "format": "Duel",
+    "legality": "Legal"
+    },
+    {
+    "format": "Legacy",
+    "legality": "Legal"
+    },
+    {
+    "format": "Modern",
+    "legality": "Legal"
+    },
+    {
+    "format": "Oathbreaker",
+    "legality": "Legal"
+    },
+    {
+    "format": "Pauper",
+    "legality": "Legal"
+    },
+    {
+    "format": "Paupercommander",
+    "legality": "Legal"
+    },
+    {
+    "format": "Penny",
+    "legality": "Legal"
+    },
+    {
+    "format": "Predh",
+    "legality": "Legal"
+    },
+    {
+    "format": "Premodern",
+    "legality": "Legal"
+    },
+    {
+    "format": "Vintage",
+    "legality": "Legal"
+    }
+    ],
+    "id": "5119e249-f9be-56b3-9deb-72d7cba52ea8"
+    },
+    {
+    "name": "Plains",
+    "cmc": 0,
+    "colorIdentity": [
+    "W"
+    ],
+    "type": "Basic Land — Plains",
+    "supertypes": [
+    "Basic"
+    ],
+    "types": [
+    "Land"
+    ],
+    "subtypes": [
+    "Plains"
+    ],
+    "rarity": "Common",
+    "set": "10E",
+    "setName": "Tenth Edition",
+    "text": "({T}: Add {W}.)",
+    "artist": "John Avon",
+    "number": "365",
+    "layout": "normal",
+    "multiverseid": "129681",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=129681&type=card",
+    "variations": [
+    "c4823642-08dd-5c10-ae26-ef8d52cf3a43",
+    "053c8559-8ab8-5a1a-9444-6140b41470c4",
+    "77977762-e1e1-507b-8d59-e9ed6671a926"
+    ],
+    "foreignNames": [
+    {
+    "name": "Ebene",
+    "type": "Standardland - Ebene",
+    "flavor": null,
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148635&type=card",
+    "language": "German",
+    "multiverseid": 148635
+    },
+    {
+    "name": "Llanura",
+    "type": "Tierra básica - Llanura",
+    "flavor": null,
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150681&type=card",
+    "language": "Spanish",
+    "multiverseid": 150681
+    },
+    {
+    "name": "Plaine",
+    "type": "Terrain de base : plaine",
+    "flavor": null,
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150298&type=card",
+    "language": "French",
+    "multiverseid": 150298
+    },
+    {
+    "name": "Pianura",
+    "type": "Terra Base - Pianura",
+    "flavor": null,
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149018&type=card",
+    "language": "Italian",
+    "multiverseid": 149018
+    },
+    {
+    "name": "平地",
+    "type": "基本土地 — 平地",
+    "flavor": null,
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148254&type=card",
+    "language": "Japanese",
+    "multiverseid": 148254
+    },
+    {
+    "name": "Planície",
+    "type": "Terreno Básico — Planície",
+    "flavor": null,
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149915&type=card",
+    "language": "Portuguese (Brazil)",
+    "multiverseid": 149915
+    },
+    {
+    "name": "Равнина",
+    "type": "Базовая Земля — Равнина",
+    "flavor": null,
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149532&type=card",
+    "language": "Russian",
+    "multiverseid": 149532
+    },
+    {
+    "name": "平原",
+    "type": "基本地～平原",
+    "flavor": null,
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=147869&type=card",
+    "language": "Chinese Simplified",
+    "multiverseid": 147869
+    }
+    ],
+    "printings": [
+    "10E",
+    "2ED",
+    "2XM",
+    "30A",
+    "3ED",
+    "40K",
+    "4BB",
+    "4ED",
+    "5ED",
+    "6ED",
+    "7ED",
+    "8ED",
+    "9ED",
+    "AFR",
+    "AKH",
+    "AKR",
+    "ALA",
+    "ANA",
+    "ANB",
+    "ARC",
+    "ATH",
+    "AVR",
+    "BBD",
+    "BFZ",
+    "BRB",
+    "BRC",
+    "BRO",
+    "C13",
+    "C14",
+    "C15",
+    "C16",
+    "C17",
+    "C18",
+    "C19",
+    "CED",
+    "CEI",
+    "CHK",
+    "CLB",
+    "CM2",
+    "CMA",
+    "CMD",
+    "CMR",
+    "CST",
+    "DDC",
+    "DDE",
+    "DDF",
+    "DDG",
+    "DDH",
+    "DDI",
+    "DDK",
+    "DDL",
+    "DDN",
+    "DDO",
+    "DDP",
+    "DDQ",
+    "DMR",
+    "DMU",
+    "DOM",
+    "DTK",
+    "DVD",
+    "E01",
+    "ELD",
+    "FBB",
+    "FRF",
+    "G17",
+    "GK1",
+    "GK2",
+    "GN2",
+    "GN3",
+    "GNT",
+    "GRN",
+    "GS1",
+    "H09",
+    "HBG",
+    "HOP",
+    "HOU",
+    "ICE",
+    "IKO",
+    "INV",
+    "ISD",
+    "ITP",
+    "J14",
+    "J22",
+    "JMP",
+    "KHM",
+    "KLD",
+    "KLR",
+    "KTK",
+    "LEA",
+    "LEB",
+    "LRW",
+    "LTR",
+    "M10",
+    "M11",
+    "M12",
+    "M13",
+    "M14",
+    "M15",
+    "M19",
+    "M20",
+    "M21",
+    "MBS",
+    "MD1",
+    "ME1",
+    "ME3",
+    "MH2",
+    "MID",
+    "MIR",
+    "MMQ",
+    "MOM",
+    "MRD",
+    "NEO",
+    "NPH",
+    "ODY",
+    "OLEP",
+    "ONE",
+    "ONS",
+    "ORI",
+    "P02",
+    "PAL00",
+    "PAL01",
+    "PAL03",
+    "PAL04",
+    "PAL05",
+    "PAL06",
+    "PAL99",
+    "PALP",
+    "PANA",
+    "PARL",
+    "PC2",
+    "PCA",
+    "PCTB",
+    "PDGM",
+    "PELP",
+    "PF19",
+    "PF20",
+    "PGPX",
+    "PGRU",
+    "PLIST",
+    "PMPS",
+    "PMPS06",
+    "PMPS07",
+    "PMPS08",
+    "PMPS09",
+    "PMPS10",
+    "PMPS11",
+    "POR",
+    "PPP1",
+    "PRM",
+    "PRW2",
+    "PRWK",
+    "PS11",
+    "PSAL",
+    "PSS2",
+    "PSS3",
+    "PTC",
+    "PTK",
+    "PZ2",
+    "RAV",
+    "RIX",
+    "RNA",
+    "ROE",
+    "RQS",
+    "RTR",
+    "S99",
+    "SCD",
+    "SHM",
+    "SIR",
+    "SLD",
+    "SNC",
+    "SOI",
+    "SOM",
+    "STX",
+    "SUM",
+    "TD0",
+    "TD2",
+    "THB",
+    "THS",
+    "TMP",
+    "TPR",
+    "TSP",
+    "UGL",
+    "UND",
+    "UNF",
+    "UNH",
+    "USG",
+    "UST",
+    "VOW",
+    "WAR",
+    "WC00",
+    "WC02",
+    "WC03",
+    "WC04",
+    "WC97",
+    "WC98",
+    "WHO",
+    "XANA",
+    "XLN",
+    "ZEN",
+    "ZNR"
+    ],
+    "originalText": "W",
+    "originalType": "Basic Land - Plains",
+    "legalities": [
+    {
+    "format": "Alchemy",
+    "legality": "Legal"
+    },
+    {
+    "format": "Brawl",
+    "legality": "Legal"
+    },
+    {
+    "format": "Commander",
+    "legality": "Legal"
+    },
+    {
+    "format": "Duel",
+    "legality": "Legal"
+    },
+    {
+    "format": "Explorer",
+    "legality": "Legal"
+    },
+    {
+    "format": "Future",
+    "legality": "Legal"
+    },
+    {
+    "format": "Gladiator",
+    "legality": "Legal"
+    },
+    {
+    "format": "Historic",
+    "legality": "Legal"
+    },
+    {
+    "format": "Historicbrawl",
+    "legality": "Legal"
+    },
+    {
+    "format": "Legacy",
+    "legality": "Legal"
+    },
+    {
+    "format": "Modern",
+    "legality": "Legal"
+    },
+    {
+    "format": "Oathbreaker",
+    "legality": "Legal"
+    },
+    {
+    "format": "Pauper",
+    "legality": "Legal"
+    },
+    {
+    "format": "Paupercommander",
+    "legality": "Legal"
+    },
+    {
+    "format": "Penny",
+    "legality": "Legal"
+    },
+    {
+    "format": "Pioneer",
+    "legality": "Legal"
+    },
+    {
+    "format": "Predh",
+    "legality": "Legal"
+    },
+    {
+    "format": "Premodern",
+    "legality": "Legal"
+    },
+    {
+    "format": "Standard",
+    "legality": "Legal"
+    },
+    {
+    "format": "Vintage",
+    "legality": "Legal"
+    }
+    ],
+    "id": "3d407269-4586-51e3-9da6-298d65aff831"
+    },
+    {
+    "name": "Sage Owl",
+    "manaCost": "{1}{U}",
+    "cmc": 2,
+    "colors": [
+    "U"
+    ],
+    "colorIdentity": [
+    "U"
+    ],
+    "type": "Creature — Bird",
+    "types": [
+    "Creature"
+    ],
+    "subtypes": [
+    "Bird"
+    ],
+    "rarity": "Common",
+    "set": "10E",
+    "setName": "Tenth Edition",
+    "text": "Flying\nWhen Sage Owl enters the battlefield, look at the top four cards of your library, then put them back in any order.",
+    "artist": "Mark Brill",
+    "number": "104★",
+    "power": "1",
+    "toughness": "1",
+    "layout": "normal",
+    "variations": [
+    "cdf65c48-2ac8-522a-bbcf-2f8165187a18"
+    ],
+    "printings": [
+    "10E",
+    "6ED",
+    "7ED",
+    "8ED",
+    "M10",
+    "PSAL",
+    "WTH"
+    ],
+    "legalities": [
+    {
+    "format": "Commander",
+    "legality": "Legal"
+    },
+    {
+    "format": "Duel",
+    "legality": "Legal"
+    },
+    {
+    "format": "Legacy",
+    "legality": "Legal"
+    },
+    {
+    "format": "Modern",
+    "legality": "Legal"
+    },
+    {
+    "format": "Oathbreaker",
+    "legality": "Legal"
+    },
+    {
+    "format": "Pauper",
+    "legality": "Legal"
+    },
+    {
+    "format": "Paupercommander",
+    "legality": "Legal"
+    },
+    {
+    "format": "Penny",
+    "legality": "Legal"
+    },
+    {
+    "format": "Predh",
+    "legality": "Legal"
+    },
+    {
+    "format": "Premodern",
+    "legality": "Legal"
+    },
+    {
+    "format": "Vintage",
+    "legality": "Legal"
+    }
+    ],
+    "id": "67adcf6f-bf56-5ca8-a3fb-a1045b4fba41"
+    },
+    {
+    "name": "Sage Owl",
+    "manaCost": "{1}{U}",
+    "cmc": 2,
+    "colors": [
+    "U"
+    ],
+    "colorIdentity": [
+    "U"
+    ],
+    "type": "Creature — Bird",
+    "types": [
+    "Creature"
+    ],
+    "subtypes": [
+    "Bird"
+    ],
+    "rarity": "Common",
+    "set": "10E",
+    "setName": "Tenth Edition",
+    "text": "Flying\nWhen Sage Owl enters the battlefield, look at the top four cards of your library, then put them back in any order.",
+    "artist": "Mark Brill",
+    "number": "104",
+    "power": "1",
+    "toughness": "1",
+    "layout": "normal",
+    "multiverseid": "135217",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=135217&type=card",
+    "variations": [
+    "67adcf6f-bf56-5ca8-a3fb-a1045b4fba41"
+    ],
+    "foreignNames": [
+    {
+    "name": "Weise Eule",
+    "text": "Fliegend (Diese Kreatur kann außer von fliegenden Kreaturen und Kreaturen mit Reichweite nicht geblockt werden.)\nWenn die Weise Eule ins Spiel kommt, schaue dir die obersten vier Karten deiner Bibliothek an und lege sie in beliebiger Reihenfolge zurück.",
+    "type": "Kreatur — Vogel",
+    "flavor": null,
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148672&type=card",
+    "language": "German",
+    "multiverseid": 148672
+    },
+    {
+    "name": "Búho sabio",
+    "text": "Vuela. (Esta criatura no puede ser bloqueada excepto por criaturas que tengan la habilidad de volar o alcance.)\nCuando el Búho sabio entre en juego, mira las primeras cuatro cartas de tu biblioteca y regrésalas en cualquier orden.",
+    "type": "Criatura — Ave",
+    "flavor": null,
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150420&type=card",
+    "language": "Spanish",
+    "multiverseid": 150420
+    },
+    {
+    "name": "Hibou savant",
+    "text": "Vol (Cette créature ne peut être bloquée que par des créatures avec le vol ou la portée.)\nQuand le Hibou savant arrive en jeu, regardez les quatre cartes du dessus de votre bibliothèque, puis remettez-les dessus dans l'ordre de votre choix.",
+    "type": "Créature : oiseau",
+    "flavor": null,
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150037&type=card",
+    "language": "French",
+    "multiverseid": 150037
+    },
+    {
+    "name": "Gufo Sapiente",
+    "text": "Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.)\nQuando il Gufo Sapiente entra in gioco, guarda le prime quattro carte del tuo grimorio, poi rimettile a posto in qualsiasi ordine.",
+    "type": "Creatura — Uccello",
+    "flavor": null,
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149055&type=card",
+    "language": "Italian",
+    "multiverseid": 149055
+    },
+    {
+    "name": "物知りフクロウ",
+    "text": "飛行 （このクリーチャーは飛行や到達を持たないクリーチャーによってブロックされない。）\n物知りフクロウが場に出たとき、あなたのライブラリーのカードを上から４枚見る。その後、それらを望む順番で戻す。",
+    "type": "クリーチャー — 鳥",
+    "flavor": null,
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148289&type=card",
+    "language": "Japanese",
+    "multiverseid": 148289
+    },
+    {
+    "name": "Coruja Sábia",
+    "text": "Voar (Esta criatura só pode ser bloqueada por criaturas com a habilidade de voar ou alcance.)\nQuando Coruja Sábia entrar em jogo, olhe os quatro cards do topo de seu grimório e coloque-os de volta em qualquer ordem.",
+    "type": "Criatura — Ave",
+    "flavor": null,
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149654&type=card",
+    "language": "Portuguese (Brazil)",
+    "multiverseid": 149654
+    },
+    {
+    "name": "Мудрая Сова",
+    "text": "Полет (Это существо может быть заблокировано только существом с Полетом или Захватом.)\nКогда Мудрая Сова входит в игру, посмотрите четыре верхние карты вашей библиотеки, затем положите их обратно в любом порядке.",
+    "type": "Существо — Птица",
+    "flavor": null,
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149271&type=card",
+    "language": "Russian",
+    "multiverseid": 149271
+    },
+    {
+    "name": "睿智的猫头鹰",
+    "text": "飞行（只有具飞行或延势异能的生物才能阻挡它。）\n当睿智的猫头鹰进场时，检视你牌库顶的四张牌，然后将它们以任意顺序放回。",
+    "type": "生物～鸟",
+    "flavor": null,
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=147906&type=card",
+    "language": "Chinese Simplified",
+    "multiverseid": 147906
+    }
+    ],
+    "printings": [
+    "10E",
+    "6ED",
+    "7ED",
+    "8ED",
+    "M10",
+    "PSAL",
+    "WTH"
+    ],
+    "originalText": "Flying (This creature can't be blocked except by creatures with flying or reach.)\nWhen Sage Owl comes into play, look at the top four cards of your library, then put them back in any order.",
+    "originalType": "Creature - Bird",
+    "legalities": [
+    {
+    "format": "Commander",
+    "legality": "Legal"
+    },
+    {
+    "format": "Duel",
+    "legality": "Legal"
+    },
+    {
+    "format": "Legacy",
+    "legality": "Legal"
+    },
+    {
+    "format": "Modern",
+    "legality": "Legal"
+    },
+    {
+    "format": "Oathbreaker",
+    "legality": "Legal"
+    },
+    {
+    "format": "Pauper",
+    "legality": "Legal"
+    },
+    {
+    "format": "Paupercommander",
+    "legality": "Legal"
+    },
+    {
+    "format": "Penny",
+    "legality": "Legal"
+    },
+    {
+    "format": "Predh",
+    "legality": "Legal"
+    },
+    {
+    "format": "Premodern",
+    "legality": "Legal"
+    },
+    {
+    "format": "Vintage",
+    "legality": "Legal"
+    }
+    ],
+    "id": "cdf65c48-2ac8-522a-bbcf-2f8165187a18"
+    },
+    {
+    "name": "Natural Spring",
+    "manaCost": "{3}{G}{G}",
+    "cmc": 5,
+    "colors": [
+    "G"
+    ],
+    "colorIdentity": [
+    "G"
+    ],
+    "type": "Sorcery",
+    "types": [
+    "Sorcery"
+    ],
+    "rarity": "Common",
+    "set": "10E",
+    "setName": "Tenth Edition",
+    "text": "Target player gains 8 life.",
+    "flavor": "\"Jewels cannot be eaten nor gold drunk. What civilization trades, nature simply provides.\"\n—Molimo, maro-sorcerer",
+    "artist": "Jeffrey R. Busch",
+    "number": "281",
+    "layout": "normal",
+    "multiverseid": "129655",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=129655&type=card",
+    "foreignNames": [
+    {
+    "name": "Natürliche Quelle",
+    "text": "Ein Spieler deiner Wahl erhält 8 Lebenspunkte dazu.",
+    "type": "Hexerei",
+    "flavor": "„Juwelen können nicht gegessen und Gold nicht getrunken werden. Die Natur stellt das zur Verfügung, womit die Zivilisation Handel betreiben muss.\" —Molimo, Maro-Hexer",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148610&type=card",
+    "language": "German",
+    "multiverseid": 148610
+    },
+    {
+    "name": "Manantial natural",
+    "text": "El jugador objetivo gana 8 vidas.",
+    "type": "Conjuro",
+    "flavor": "\"Las joyas no pueden comerse ni el oro beberse. Lo que la civilización comercia, es lo que la naturaleza simplemente provee.\" —Molimo, hechicero maro",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150597&type=card",
+    "language": "Spanish",
+    "multiverseid": 150597
+    },
+    {
+    "name": "Source naturelle",
+    "text": "Le joueur ciblé gagne 8 points de vie.",
+    "type": "Rituel",
+    "flavor": "« Les joyaux ne peuvent pas rassasier ni l'or désaltérer. Ce que la civilisation vend, la nature le donne. » —Molimo, maro-sorcier",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=150214&type=card",
+    "language": "French",
+    "multiverseid": 150214
+    },
+    {
+    "name": "Sorgente Naturale",
+    "text": "Un giocatore bersaglio guadagna 8 punti vita.",
+    "type": "Stregoneria",
+    "flavor": "\"I gioielli non possono essere mangiati, né l'oro bevuto. La natura fornisce ciò che la civiltà baratta.\" —Molimo, stregone maro",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148993&type=card",
+    "language": "Italian",
+    "multiverseid": 148993
+    },
+    {
+    "name": "自然の泉",
+    "text": "プレイヤー１人を対象とする。そのプレイヤーは８点のライフを得る。",
+    "type": "ソーサリー",
+    "flavor": "宝石にも金にも飲みこまれはせぬ。 文明が交易しているものを、自然は単に生み出している。 ――マローの魔術師モリモ",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=148227&type=card",
+    "language": "Japanese",
+    "multiverseid": 148227
+    },
+    {
+    "name": "Fonte Natural",
+    "text": "O jogador alvo ganha 8 pontos de vida.",
+    "type": "Feitiço",
+    "flavor": "\"Jóias não podem ser comidas e ouro não pode ser bebido. O que a civilização comercializa, a natureza simplesmente fornece.\" — Molimo, feiticeiro maro",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149831&type=card",
+    "language": "Portuguese (Brazil)",
+    "multiverseid": 149831
+    },
+    {
+    "name": "Природный Источник",
+    "text": "Целевой игрок получает 8 жизней.",
+    "type": "Волшебство",
+    "flavor": "\"Драгоценные камни не спасут от голода, а золото не утолит жажды. То, чем торгует цивилизация, дается природой просто так\". — Молимо, маро-волшебник",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=149448&type=card",
+    "language": "Russian",
+    "multiverseid": 149448
+    },
+    {
+    "name": "天然泉水",
+    "text": "目标牌手获得8点生命。",
+    "type": "法术",
+    "flavor": "「珠宝不能吃，黄金不能喝。 文明会向你需索代价者，大自然只默默提供。」 ～玛洛术士莫黎墨",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=147844&type=card",
+    "language": "Chinese Simplified",
+    "multiverseid": 147844
+    }
+    ],
+    "printings": [
+    "10E",
+    "9ED",
+    "DPA",
+    "P02",
+    "POR",
+    "PS11",
+    "S99",
+    "TMP"
+    ],
+    "originalText": "Target player gains 8 life.",
+    "originalType": "Sorcery",
+    "legalities": [
+    {
+    "format": "Commander",
+    "legality": "Legal"
+    },
+    {
+    "format": "Duel",
+    "legality": "Legal"
+    },
+    {
+    "format": "Legacy",
+    "legality": "Legal"
+    },
+    {
+    "format": "Modern",
+    "legality": "Legal"
+    },
+    {
+    "format": "Oathbreaker",
+    "legality": "Legal"
+    },
+    {
+    "format": "Pauper",
+    "legality": "Legal"
+    },
+    {
+    "format": "Paupercommander",
+    "legality": "Legal"
+    },
+    {
+    "format": "Penny",
+    "legality": "Legal"
+    },
+    {
+    "format": "Predh",
+    "legality": "Legal"
+    },
+    {
+    "format": "Premodern",
+    "legality": "Legal"
+    },
+    {
+    "format": "Vintage",
+    "legality": "Legal"
+    }
+    ],
+    "id": "a3cc9902-7bc8-577c-8c06-477ef8a82bfb"
+    },
+    {
+    "name": "Mountain",
+    "cmc": 0,
+    "colorIdentity": [
+    "R"
+    ],
+    "type": "Basic Land — Mountain",
+    "supertypes": [
+    "Basic"
+    ],
+    "types": [
+    "Land"
+    ],
+    "subtypes": [
+    "Mountain"
+    ],
+    "rarity": "Common",
+    "set": "10E",
+    "setName": "Tenth Edition",
+    "text": "({T}: Add {R}.)",
+    "artist": "Glen Angus",
+    "number": "377",
+    "layout": "normal",
+    "multiverseid": "129650",
+    "imageUrl": "http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=129650&type=card",
+    "variations": [
+    "c1f98960-ef31-5ec9-af8d-d6d56169047b",
+    "87d6bcfb-0e75-59f7-be6c-30aa7c344ccb",
+    "47e1bdab-e112-526d-bd9f-7f1cffef7187"
+    ],
+    "printings": [
+    "10E",
+    "2ED",
+    "2XM",
+    "30A",
+    "3ED",
+    "40K",
+    "4BB",
+    "4ED",
+    "5ED",
+    "6ED",
+    "7ED",
+    "8ED",
+    "9ED",
+    "AFR",
+    "AKH",
+    "AKR",
+    "ALA",
+    "ANA",
+    "ANB",
+    "ARC",
+    "ARN",
+    "ATH",
+    "AVR",
+    "BBD",
+    "BFZ",
+    "BRB",
+    "BRC",
+    "BRO",
+    "BTD",
+    "C13",
+    "C14",
+    "C15",
+    "C16",
+    "C17",
+    "C18",
+    "C19",
+    "CED",
+    "CEI",
+    "CHK",
+    "CLB",
+    "CM2",
+    "CMA",
+    "CMD",
+    "CMR",
+    "CST",
+    "DD1",
+    "DD2",
+    "DDE",
+    "DDG",
+    "DDH",
+    "DDI",
+    "DDJ",
+    "DDK",
+    "DDL",
+    "DDN",
+    "DDP",
+    "DDS",
+    "DDT",
+    "DDU",
+    "DKM",
+    "DMR",
+    "DMU",
+    "DOM",
+    "DPA",
+    "DTK",
+    "E01",
+    "ELD",
+    "EVG",
+    "FBB",
+    "FRF",
+    "G17",
+    "GK1",
+    "GK2",
+    "GN2",
+    "GN3",
+    "GNT",
+    "GRN",
+    "GS1",
+    "H09",
+    "HBG",
+    "HOP",
+    "HOU",
+    "ICE",
+    "IKO",
+    "INV",
+    "ISD",
+    "ITP",
+    "J14",
+    "J22",
+    "JMP",
+    "JVC",
+    "KHM",
+    "KLD",
+    "KLR",
+    "KTK",
+    "LEA",
+    "LEB",
+    "LRW",
+    "LTR",
+    "M10",
+    "M11",
+    "M12",
+    "M13",
+    "M14",
+    "M15",
+    "M19",
+    "M20",
+    "M21",
+    "MBS",
+    "ME1",
+    "ME3",
+    "MH2",
+    "MID",
+    "MIR",
+    "MMQ",
+    "MOM",
+    "MRD",
+    "NEO",
+    "NPH",
+    "ODY",
+    "OLEP",
+    "ONE",
+    "ONS",
+    "ORI",
+    "P02",
+    "PAL00",
+    "PAL01",
+    "PAL03",
+    "PAL04",
+    "PAL05",
+    "PAL06",
+    "PAL99",
+    "PALP",
+    "PANA",
+    "PARL",
+    "PC2",
+    "PCA",
+    "PCTB",
+    "PD2",
+    "PELP",
+    "PF19",
+    "PF20",
+    "PGPX",
+    "PGRU",
+    "PHED",
+    "PLIST",
+    "PMPS",
+    "PMPS06",
+    "PMPS07",
+    "PMPS08",
+    "PMPS09",
+    "PMPS10",
+    "PMPS11",
+    "POR",
+    "PPP1",
+    "PRM",
+    "PRW2",
+    "PRWK",
+    "PS11",
+    "PSAL",
+    "PSS2",
+    "PSS3",
+    "PTC",
+    "PTK",
+    "PZ2",
+    "RAV",
+    "RIX",
+    "RNA",
+    "ROE",
+    "RQS",
+    "RTR",
+    "S99",
+    "SCD",
+    "SHM",
+    "SIR",
+    "SLD",
+    "SNC",
+    "SOI",
+    "SOM",
+    "STX",
+    "SUM",
+    "TD0",
+    "THB",
+    "THS",
+    "TMP",
+    "TPR",
+    "TSP",
+    "UGL",
+    "UND",
+    "UNF",
+    "UNH",
+    "USG",
+    "UST",
+    "VOW",
+    "WAR",
+    "WC00",
+    "WC01",
+    "WC02",
+    "WC03",
+    "WC97",
+    "WC98",
+    "WC99",
+    "WHO",
+    "XANA",
+    "XLN",
+    "ZEN",
+    "ZNR"
+    ],
+    "originalText": "R",
+    "originalType": "Basic Land - Mountain",
+    "legalities": [
+    {
+    "format": "Alchemy",
+    "legality": "Legal"
+    },
+    {
+    "format": "Brawl",
+    "legality": "Legal"
+    },
+    {
+    "format": "Commander",
+    "legality": "Legal"
+    },
+    {
+    "format": "Duel",
+    "legality": "Legal"
+    },
+    {
+    "format": "Explorer",
+    "legality": "Legal"
+    },
+    {
+    "format": "Future",
+    "legality": "Legal"
+    },
+    {
+    "format": "Gladiator",
+    "legality": "Legal"
+    },
+    {
+    "format": "Historic",
+    "legality": "Legal"
+    },
+    {
+    "format": "Historicbrawl",
+    "legality": "Legal"
+    },
+    {
+    "format": "Legacy",
+    "legality": "Legal"
+    },
+    {
+    "format": "Modern",
+    "legality": "Legal"
+    },
+    {
+    "format": "Oathbreaker",
+    "legality": "Legal"
+    },
+    {
+    "format": "Pauper",
+    "legality": "Legal"
+    },
+    {
+    "format": "Paupercommander",
+    "legality": "Legal"
+    },
+    {
+    "format": "Penny",
+    "legality": "Legal"
+    },
+    {
+    "format": "Pioneer",
+    "legality": "Legal"
+    },
+    {
+    "format": "Predh",
+    "legality": "Legal"
+    },
+    {
+    "format": "Premodern",
+    "legality": "Legal"
+    },
+    {
+    "format": "Standard",
+    "legality": "Legal"
+    },
+    {
+    "format": "Vintage",
+    "legality": "Legal"
+    }
+    ],
+    "id": "3e12f3ab-96ab-5d5a-8bed-92b37ffee9aa"
+    },
+    {
+    "name": "Wall of Wood",
+    "manaCost": "{G}",
+    "cmc": 1,
+    "colors": [
+    "G"
+    ],
+    "colorIdentity": [
+    "G"
+    ],
+    "type": "Creature — Wall",
+    "types": [
+    "Creature"
+    ],
+    "subtypes": [
+    "Wall"
+    ],
+    "rarity": "Common",
+    "set": "10E",
+    "setName": "Tenth Edition",
+    "text": "Defender (This creature can't attack.)",
+    "flavor": "Orcish lumberjacks spent the night sharpening their blades and resting for a day of labor. They awoke to find that the forest had been making its own preparations.",
+    "artist": "Rebecca Guay",
+    "number": "309★",
+    "power": "0",
+    "toughness": "3",
+    "layout": "normal",
+    "variations": [
+    "564d110e-2a39-5fcb-967a-bacf3a432799"
+    ],
+    "printings": [
+    "10E",
+    "2ED",
+    "30A",
+    "3ED",
+    "4BB",
+    "4ED",
+    "CED",
+    "CEI",
+    "DPA",
+    "FBB",
+    "LEA",
+    "LEB",
+    "PS11",
+    "SUM"
+    ],
+    "legalities": [
+    {
+    "format": "Commander",
+    "legality": "Legal"
+    },
+    {
+    "format": "Duel",
+    "legality": "Legal"
+    },
+    {
+    "format": "Legacy",
+    "legality": "Legal"
+    },
+    {
+    "format": "Modern",
+    "legality": "Legal"
+    },
+    {
+    "format": "Oathbreaker",
+    "legality": "Legal"
+    },
+    {
+    "format": "Pauper",
+    "legality": "Legal"
+    },
+    {
+    "format": "Paupercommander",
+    "legality": "Legal"
+    },
+    {
+    "format": "Penny",
+    "legality": "Legal"
+    },
+    {
+    "format": "Predh",
+    "legality": "Legal"
+    },
+    {
+    "format": "Premodern",
+    "legality": "Legal"
+    },
+    {
+    "format": "Vintage",
+    "legality": "Legal"
+    }
+    ],
+    "id": "a6778999-a426-51ea-82d1-749bf98619be"
+    }
+    ]
+    }

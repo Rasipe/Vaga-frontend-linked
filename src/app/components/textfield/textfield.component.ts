@@ -24,4 +24,8 @@ export class TextfieldComponent {
   @Output()
   valueChange: EventEmitter<string> = new EventEmitter();
 
+  inputHander(event: any) {
+    this.valueChange.emit(event.target.value)
+  }
+
 }

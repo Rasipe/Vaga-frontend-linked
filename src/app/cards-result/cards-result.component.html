@@ -1,0 +1,6 @@
+<div  *ngIf="!loading">
+    <h1 class="page-title">Suas cartas do pacote aberto</h1>
+    <app-card-list [cards]="cards"></app-card-list>
+</div>
+
+<app-loader *ngIf="loading"></app-loader>

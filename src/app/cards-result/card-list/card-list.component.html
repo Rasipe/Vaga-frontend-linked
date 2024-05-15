@@ -1,0 +1,10 @@
+<ul class="list">
+    <li class="list__item card card--medium" *ngFor="let card of cards">
+        <img *ngIf="card.imageUrl" [src]="card.imageUrl" [alt]="card.name" class="card__image">
+        <div class="card__content">
+            <p class="card__title">{{card.name}}</p>
+            <p class="card__subtitle">{{card.manaCost}}</p>
+            <p class="card__descriptio">{{card.text}}</p>
+        </div>
+    </li>
+</ul>

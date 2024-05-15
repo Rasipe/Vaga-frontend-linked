@@ -1,4 +1,5 @@
-@import './grid';
+@import './flexbox';
+@import './colors';
 
 *:focus {
     outline: none;
@@ -7,9 +8,24 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
+    background: $background-light;
 }
 
 body, html {
     width: 100vw;
     min-height: 100vh;
+}
+
+p {
+    margin: 0;
+}
+
+.clickable {
+    cursor: pointer;
+}
+
+.fullscreen {
+    height: 100vh;
+    width: 100vw;
+    position: fixed;
 }
